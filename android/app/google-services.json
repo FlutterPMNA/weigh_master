@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066570386647",
+    "project_id": "weigh-master",
+    "storage_bucket": "weigh-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066570386647:android:c7be68fe77091ebb1a7492",
+        "android_client_info": {
+          "package_name": "com.example.weigh_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOfCVPI7CQ0jAB5-E74RjEUgw_-Nek1_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066570386647:android:d47019103b56d8bb1a7492",
+        "android_client_info": {
+          "package_name": "com.example.weigh_master_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOfCVPI7CQ0jAB5-E74RjEUgw_-Nek1_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
